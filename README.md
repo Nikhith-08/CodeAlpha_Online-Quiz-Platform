@@ -32,7 +32,7 @@ This project is part of a Java Development internship, focusing on building prac
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   [git clone https://github.com/Nikhith-08/CodeAlpha_Online-Quiz-Platform.git]
+   git clone https://github.com/Nikhith-08/CodeAlpha_Online-Quiz-Platform.git
 2. **Navigate to the Project Directory:**
    ```bash
    cd simple-banking-application
