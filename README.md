@@ -39,11 +39,11 @@ This project is part of a Java Development internship, focusing on building prac
 
 4. **Compile the Program:**
    ```bash
-   javac SimpleBankingApp.java
+   javac Online_Quiz_Platform.java
  
 6. **Run the Program:**
    ```bash
-   java SimpleBankingApp
+   java Online_Quiz_Platform
    
 ## Usage
 1. Run the program, and the main menu will display:
