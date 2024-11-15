@@ -9,7 +9,6 @@ A beginner-friendly Java application simulating basic banking operations, includ
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
-- [Contributing](#contributing)
 
 ## Project Overview
 The **Simple Banking Application** allows users to manage an account with basic functions:
@@ -65,10 +64,4 @@ This project is part of a Java Development internship, focusing on building prac
 - **Menu Loop**:
 - The `main` method provides a menu interface, allowing users to interact with the program to check balance, deposit, or withdraw funds until they choose to exit.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
+
